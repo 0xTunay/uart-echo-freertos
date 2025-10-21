@@ -1,0 +1,21 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.profiles.linux": {
+      "bash": {
+        "path": "/bin/bash",
+        "args": [
+          "-c",
+          "source ~/esp-idf-v5.4.1/export.sh && exec bash"
+        ]
+      }
+    }
+  }
+}
+
+// example for auto build(restart terminal and change path to esp-idf)
