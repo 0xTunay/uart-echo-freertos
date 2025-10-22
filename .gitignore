@@ -3,3 +3,4 @@ build/
 Doxyfile
 .cache/
 cmake-build-debug
+.idea
