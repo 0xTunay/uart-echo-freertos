@@ -1,5 +1,5 @@
 /**
- * @file main.c
+ * @file uart-echo-freertos.c
  * @brief Simple UART echo server with FreeRTOS and event handling (ESP-IDF v5.4.1 example).
  *
  * This example demonstrates:

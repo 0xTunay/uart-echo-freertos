@@ -1,5 +1,5 @@
-docs/
 .vscode
 build/
 Doxyfile
 .cache/
+cmake-build-debug
